@@ -7,7 +7,7 @@ share.addEventListener("click", function() {
             text: "But wait, there's more!",
             url: window.location.href
         })
-        .then(window.alert("than you for sharing"));
+        .then(window.alert("thank you for sharing"));
     }
     else {
         window.alert("This is mobile-user land boy, and you ain't welcome here")
